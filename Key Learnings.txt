@@ -1,0 +1,19 @@
+Fontawsome CDN
+@import : LINK : https://www.w3schools.com/cssref/atrule_import.php
+
+Utility Classes  Concepts
+CSS Hamburger Menu
+object-fit and object-position
+Learn Animation Property of the CSS
+transform Property
+
+Overlay Effect 
+    learn : https://www.w3schools.com/howto/howto_css_overlay.asp
+    video : https://www.youtube.com/watch?v=SDZvJeSOIgc&list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB&index=134&pp=iAQB
+
+Smooth Scrolling when click on the page components. JavaScript Function
+
+
+Two ways To do CSS Coding :
+    1. Desktop First  Approach  Responsive  website
+    2. Mobile  First  Approach  Responsive  website
